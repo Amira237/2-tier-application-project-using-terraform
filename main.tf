@@ -1,5 +1,5 @@
 module "myprojectModules"{
-    source="../modules"
+    source="github.com/Amira237/2-tier-application-modules-using-terraform.git"
     vpc_id= var.vpc_id
     myname=var.myname
     #database instance variables
