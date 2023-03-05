@@ -1,1 +1,1 @@
-# Amira237-2-tier-application-project-using-terraform
+# 2-tier-application-project-using-terraform
